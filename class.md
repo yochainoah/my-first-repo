@@ -1,2 +1,13 @@
-#yochai
-#Meta Front-End version Control
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
